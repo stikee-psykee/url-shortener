@@ -22,7 +22,13 @@ and open a pull-request.
 Name the branch like this: `xx-step-y-mylanguage`.
 
 Where `xx` is the Issue number of that step. 
-- Example: `01-step-1-scala`
+- Example: `02-step-1-scala`
+
+To know the issue number, go to the issue pages and look below the issue name:
+![issue-number](docs/issue-number.png)
+
+See my own branch as an example:
+![branch-naming](docs/branch-naming.png)
 
 Please create a Readme file in the folder of your implementation describing
 how to run and how to use your application,
